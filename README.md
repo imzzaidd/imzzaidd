@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌺 Hey, Zaid Arath here! 🌺<br>QA Analyst from Mexico City<br>
+# 🌺 Hey, Zaid Arath here! 🌺
+<br>QA Analyst from Mexico City<br>
 
 
 ## 🌐 Socials:
