@@ -1,5 +1,5 @@
 # 🌺 Hey, Zaid Arath here! 🌺
-<br>QA Analyst from Mexico City<br>
+<br>QA Automate from Mexico City<br>
 
 
 ## 🌐 Socials:
