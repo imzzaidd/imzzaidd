@@ -8,7 +8,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 > Building a Layer 1 blockchain where presence is the consensus — no GPS, no oracles, just the network itself proving you're there.
@@ -51,10 +50,8 @@
 <summary>Random Facts about 7aychain</summary>
 
 - Validators prove your location using network latency alone — no GPS, no hardware
-- The chain runs 78 invariants that can't be broken, ever
-- Witness circles triangulate your position from at least 3 peers
-- Epochs auto-transition on-chain — no human intervention needed
-- You can test every protocol feature from a single CLI in your terminal
-- Mock 15 virtual devices on your devnet with one flag
+- The name "7ay" comes from the Nahuatl word for water — life flowing through the network
+- The whole protocol was designed in Mexico City coffee shops before a single line of Rust was written
+- 7aychain was born because no blockchain could answer the simplest question: "are you actually there?"
 
 </details>
