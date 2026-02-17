@@ -1,12 +1,13 @@
 # Hi, I'm Zaid 👋
 
-📍 **Mexico City** | ⛓️ **Founder @ [7ayLabs](https://7aylabs.com)** | 🧱 **Blockchain Developer**
+📍 **Mexico City** | ⛓️ **Founder @ [7ayLabs](https://7aylabs.com)** | 🧱 **Blockchain Engineer**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Substrate](https://img.shields.io/badge/-Substrate-282828?style=flat-square&logo=parity-substrate&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -25,6 +26,10 @@
 - **Writing the protocol spec** — formalizing how validators triangulate positions through network latency alone
 - **Tooling** — building the Laud CLI so anyone can test every pallet from one terminal
 
+## Latest Blog Posts
+
+🚧 Coming soon — stay tuned at [imzzaidd.me](https://imzzaidd.me)
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/imzzaidd)
@@ -37,3 +42,19 @@
 [![Website](https://img.shields.io/badge/-imzzaidd.me-000000?style=flat-square&logo=safari&logoColor=white)](https://imzzaidd.me)
 
 ---
+
+### Philosophy
+
+> "Move forward or get out of the way" — I build what I need, open-source what I can, and let the protocol do the talking. Right now that means figuring out how to prove you exist without asking anyone's permission.
+
+<details>
+<summary>Random Facts about 7aychain</summary>
+
+- Validators prove your location using network latency alone — no GPS, no hardware
+- The chain runs 78 invariants that can't be broken, ever
+- Witness circles triangulate your position from at least 3 peers
+- Epochs auto-transition on-chain — no human intervention needed
+- You can test every protocol feature from a single CLI in your terminal
+- Mock 15 virtual devices on your devnet with one flag
+
+</details>
