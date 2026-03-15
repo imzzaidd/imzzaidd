@@ -1,75 +1,72 @@
 <div align="center">
 
-```
- ____       _     _ 
-|_  / __ _ (_) __| |
- / / / _` || |/ _` |
-/___|\__,_||_|\__,_|
-```
+# gm, I'm Zaid ⛓️
 
-**Blockchain Engineer & Founder @ [7ayLabs](https://github.com/7ayLabs)**
+**Founder @ [7ayLabs](https://github.com/7ayLabs)** · **Blockchain Engineer** · **Mexico City**
 
-`Mexico City` · `On-chain` · `Building in public`
+<br/>
 
-[![Twitter](https://img.shields.io/badge/-@imzzaidd-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/imzzaidd)
-[![LinkedIn](https://img.shields.io/badge/-imzzaidd-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imzzaidd/)
-[![Instagram](https://img.shields.io/badge/-imzzaidd-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imzzaidd)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+<br/>
+
+Building a **Layer 1 blockchain** where presence is the consensus.<br/>
+No GPS. No oracles. Just the network proving you're there.
+
+<br/>
+
+[![Twitter](https://img.shields.io/badge/-@imzzaidd-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imzzaidd)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imzzaidd/)
 
 </div>
 
----
+<br/>
 
-### `$ whoami`
-
-Blockchain engineer building infrastructure for the next generation of on-chain systems. Focused on consensus mechanisms, AI-powered crypto intelligence, and making decentralized tech that solves real problems.
-
-```
-Rust · TypeScript · Python · Solidity · Swift
-Substrate · Fastify · Next.js · Viem · React Native
-```
-
----
-
-### `$ ls ~/projects`
+## 🏗️ What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[⛓️ 7aychain](https://github.com/7ayLabs/7aychain)**
-<sub>Rust · Substrate · L1 Blockchain</sub>
+### [⛓️ 7aychain](https://github.com/7ayLabs/7aychain)
+**Standalone L1 Blockchain** · `Rust` `Substrate`
 
-Standalone Layer 1 with on-chain **Proof of Presence** — validators triangulate physical location through network latency alone. No GPS. No oracles. Just the network.
+Novel **Proof of Presence** consensus — validators triangulate physical location through network latency alone.
 
-`7 ★`
+[![Stars](https://img.shields.io/github/stars/7ayLabs/7aychain?style=flat-square&color=yellow)](https://github.com/7ayLabs/7aychain)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[🔮 Vizzor](https://github.com/7ayLabs/vizzor)**
-<sub>TypeScript · Next.js · ML · Multi-chain</sub>
+### [🔮 Vizzor](https://github.com/7ayLabs/vizzor)
+**AI Crypto Intelligence** · `TypeScript` `Next.js` `ML`
 
-AI-powered crypto intelligence platform. 51 tools, 14 ML models, 11 chain adapters. CLI + REST API + Web dashboard + Discord & Telegram bots.
+51 on-chain tools, 14 ML models, 11 chain adapters. Full-stack: CLI + API + Web Dashboard + Discord & Telegram.
 
-`601 tests · 4 AI providers`
+[![Stars](https://img.shields.io/github/stars/7ayLabs/vizzor?style=flat-square&color=yellow)](https://github.com/7ayLabs/vizzor)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[📐 7ay Presence Protocol](https://github.com/7ayLabs/7ay-presence)**
-<sub>Formal Specification · 78 Invariants</sub>
+### [📐 7ay Presence Protocol](https://github.com/7ayLabs/7ay-presence)
+**Formal Specification** · `78 Enforced Invariants`
 
-Formal specification of the Proof of Presence protocol — how validators prove you exist without asking anyone's permission.
+The mathematical foundation behind Proof of Presence — how validators prove you exist without trusting anyone.
 
-`3 ★`
+[![Stars](https://img.shields.io/github/stars/7ayLabs/7ay-presence?style=flat-square&color=yellow)](https://github.com/7ayLabs/7ay-presence)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[🌐 7ay.app](https://github.com/7ayLabs/site-7ay-app)**
-<sub>Consumer App · Presence Verification</sub>
+### [🌐 7ay.app](https://github.com/7ayLabs/site-7ay-app)
+**Consumer dApp** · `Presence Verification`
 
 Prove you're here. Consumer-facing presence verification powered by the 7ay protocol.
 
@@ -77,36 +74,30 @@ Prove you're here. Consumer-facing presence verification powered by the 7ay prot
 </tr>
 </table>
 
----
+<br/>
 
-### `$ cat focus.md`
+## 🔭 Currently
 
-```markdown
-## Current
+- 🚀 Shipping **7aychain devnet** — epoch lifecycle, witness circles, presence triangulation
+- 🤖 Scaling **Vizzor** — wallet-connected AI assistant, on-chain execution, multi-chain analytics
+- 📝 Writing the **PoP protocol spec** — making it implementable by anyone
 
-- Shipping 7aychain devnet — epoch lifecycle, witness circles, presence triangulation
-- Scaling Vizzor — wallet-connected AI assistant, on-chain execution, prediction accuracy tracking
-- Formalizing PoP — writing the protocol spec so anyone can implement it
+<br/>
 
-## Stack
+## 🛠️ Tech Stack
 
-- L1 blockchain: Rust + Substrate
-- AI/ML: Claude, GPT-4, Gemini, Ollama + 14 custom models (LSTM, GBM, DistilBERT)
-- On-chain: Solidity, Viem, multi-chain (EVM, Solana, Sui, Aptos, TON)
-- Infra: Docker, Fastify, Next.js, SSE streaming, SQLite
-```
+| Layer | Technologies |
+|-------|-------------|
+| **L1 / Consensus** | Rust, Substrate, Polkadot SDK |
+| **Smart Contracts** | Solidity, Viem, Hardhat |
+| **AI / ML** | Claude, GPT-4, Gemini, Ollama, LSTM, DistilBERT |
+| **Multi-chain** | EVM, Solana, Sui, Aptos, TON |
+| **Full-stack** | Next.js, Fastify, React Native, Docker |
 
----
+<br/>
 
 <div align="center">
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/imzzaidd)
-
-<sub>
-
-> *"7ay" comes from Nahuatl for water — life flowing through the network.*
-> *The protocol was designed in Mexico City coffee shops before a single line of Rust was written.*
-
-</sub>
 
 </div>
