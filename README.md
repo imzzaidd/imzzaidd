@@ -1,57 +1,112 @@
-# Hi, I'm Zaid 👋
+<div align="center">
 
-📍 **Mexico City** | ⛓️ **Founder @ [7ayLabs](https://7aylabs.com)** | 🧱 **Blockchain Engineer**
+```
+ ____       _     _ 
+|_  / __ _ (_) __| |
+ / / / _` || |/ _` |
+/___|\__,_||_|\__,_|
+```
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Blockchain Engineer & Founder @ [7ayLabs](https://github.com/7ayLabs)**
 
-> Building a Layer 1 blockchain where presence is the consensus — no GPS, no oracles, just the network itself proving you're there.
+`Mexico City` · `On-chain` · `Building in public`
 
-## Current Projects
+[![Twitter](https://img.shields.io/badge/-@imzzaidd-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/imzzaidd)
+[![LinkedIn](https://img.shields.io/badge/-imzzaidd-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imzzaidd/)
+[![Instagram](https://img.shields.io/badge/-imzzaidd-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imzzaidd)
 
-- ⛓️ **[7aychain](https://github.com/7ayLabs/7aychain)** — Standalone L1 blockchain with on-chain Proof of Presence, built on Substrate
-- 📐 **[7ay-presence](https://github.com/7ayLabs/7ay-presence)** — Formal specification of the PoP protocol with 78 enforced invariants
-- 🧪 **[Laud Networks CLI](https://github.com/7ayLabs/7aychain/tree/main/devnet/scripts)** — Interactive testing suite for every module on the chain
-- 🌐 **[7aylabs.com](https://github.com/7ayLabs/site-7aylabs-com)** — Company site
-
-## What I'm Working On
-
-- **Shipping 7aychain devnet** — epoch lifecycle, witness circles, presence-based triangulation
-- **Writing the protocol spec** — formalizing how validators triangulate positions through network latency alone
-- **Tooling** — building the Laud CLI so anyone can test every pallet from one terminal
-
-## Latest Blog Posts
-
-🚧 Coming soon — stay tuned at [imzzaidd.me](https://imzzaidd.me)
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/imzzaidd)
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@imzzaidd-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imzzaidd)
-[![Instagram](https://img.shields.io/badge/-imzzaidd-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imzzaidd)
-[![LinkedIn](https://img.shields.io/badge/-imzzaidd-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imzzaidd/)
-[![Website](https://img.shields.io/badge/-imzzaidd.me-000000?style=flat-square&logo=safari&logoColor=white)](https://imzzaidd.me)
+</div>
 
 ---
 
-### Philosophy
+### `$ whoami`
 
-> "Move forward or get out of the way" — I build what I need, open-source what I can, and let the protocol do the talking. Right now that means figuring out how to prove you exist without asking anyone's permission.
+Blockchain engineer building infrastructure for the next generation of on-chain systems. Focused on consensus mechanisms, AI-powered crypto intelligence, and making decentralized tech that solves real problems.
 
-<details>
-<summary>Random Facts about 7aychain</summary>
+```
+Rust · TypeScript · Python · Solidity · Swift
+Substrate · Fastify · Next.js · Viem · React Native
+```
 
-- Validators prove your location using network latency alone — no GPS, no hardware
-- The name "7ay" comes from the Nahuatl word for water — life flowing through the network
-- The whole protocol was designed in Mexico City coffee shops before a single line of Rust was written
-- 7aychain was born because no blockchain could answer the simplest question: "are you actually there?"
+---
 
-</details>
+### `$ ls ~/projects`
+
+<table>
+<tr>
+<td width="50%">
+
+**[⛓️ 7aychain](https://github.com/7ayLabs/7aychain)**
+<sub>Rust · Substrate · L1 Blockchain</sub>
+
+Standalone Layer 1 with on-chain **Proof of Presence** — validators triangulate physical location through network latency alone. No GPS. No oracles. Just the network.
+
+`7 ★`
+
+</td>
+<td width="50%">
+
+**[🔮 Vizzor](https://github.com/7ayLabs/vizzor)**
+<sub>TypeScript · Next.js · ML · Multi-chain</sub>
+
+AI-powered crypto intelligence platform. 51 tools, 14 ML models, 11 chain adapters. CLI + REST API + Web dashboard + Discord & Telegram bots.
+
+`601 tests · 4 AI providers`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[📐 7ay Presence Protocol](https://github.com/7ayLabs/7ay-presence)**
+<sub>Formal Specification · 78 Invariants</sub>
+
+Formal specification of the Proof of Presence protocol — how validators prove you exist without asking anyone's permission.
+
+`3 ★`
+
+</td>
+<td width="50%">
+
+**[🌐 7ay.app](https://github.com/7ayLabs/site-7ay-app)**
+<sub>Consumer App · Presence Verification</sub>
+
+Prove you're here. Consumer-facing presence verification powered by the 7ay protocol.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ cat focus.md`
+
+```markdown
+## Current
+
+- Shipping 7aychain devnet — epoch lifecycle, witness circles, presence triangulation
+- Scaling Vizzor — wallet-connected AI assistant, on-chain execution, prediction accuracy tracking
+- Formalizing PoP — writing the protocol spec so anyone can implement it
+
+## Stack
+
+- L1 blockchain: Rust + Substrate
+- AI/ML: Claude, GPT-4, Gemini, Ollama + 14 custom models (LSTM, GBM, DistilBERT)
+- On-chain: Solidity, Viem, multi-chain (EVM, Solana, Sui, Aptos, TON)
+- Infra: Docker, Fastify, Next.js, SSE streaming, SQLite
+```
+
+---
+
+<div align="center">
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/imzzaidd)
+
+<sub>
+
+> *"7ay" comes from Nahuatl for water — life flowing through the network.*
+> *The protocol was designed in Mexico City coffee shops before a single line of Rust was written.*
+
+</sub>
+
+</div>
