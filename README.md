@@ -1,6 +1,6 @@
 <div align="center">
 
-# gm, I'm Zaid ⛓️
+# gm, I'm Zaid 🪲
 
 **Founder @ [7ayLabs](https://github.com/7ayLabs)** · **Blockchain Engineer** · **Mexico City**
 
